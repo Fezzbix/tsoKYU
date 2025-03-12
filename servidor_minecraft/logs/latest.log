@@ -123,3 +123,5 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [03:25:12] [Server thread/INFO]: Fezz_Bex joined the game
 [03:25:12] [Server thread/INFO]: Fezz_Bex[/127.193.44.213:56797] logged in with entity id 263 at ([world]65.2224960011248, 113.48403231993434, -246.1379189320973)
 [03:33:47] [Server thread/INFO]: Fezz_Bex has made the advancement [Monster Hunter]
+[03:34:46] [Server thread/INFO]: Fezz_Bex issued server command: /setidletimeout 100000
+[03:34:46] [Server thread/INFO]: [Fezz_Bex: The player idle timeout is now 100000 minutes]
